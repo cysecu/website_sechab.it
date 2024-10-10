@@ -1,0 +1,2 @@
+theme: https://jamstackthemes.dev/demo/theme/jekyll-what-a-theme/
+https://github.com/thedevslot/WhatATheme/
