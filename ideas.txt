@@ -1,2 +1,5 @@
-theme: https://jamstackthemes.dev/demo/theme/jekyll-what-a-theme/
-https://github.com/thedevslot/WhatATheme/
+WebSite with Blog
+https://jamstackthemes.dev/demo/theme/jekyll-what-a-theme/
+
+Nice WebPresentation Theme
+https://jamstackthemes.dev/theme/jekyll-web-presentation-theme/
