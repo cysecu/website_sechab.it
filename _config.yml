@@ -1,5 +1,5 @@
 # link: https://github.com/jekyll/minima
-# theme: minima
-remote-theme: WhatATheme
+theme: minima
+#remote-theme: WhatATheme
 title: security habits
 description: part of the cysecu universe
