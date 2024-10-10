@@ -1,5 +1,12 @@
 WebSite with Blog
+https://jamstackthemes.dev/demo/theme/jekyll-jekflix-theme/
 https://jamstackthemes.dev/demo/theme/jekyll-what-a-theme/
+https://jamstackthemes.dev/demo/theme/bulma-clean-theme/
+
+Simple with Blog
+https://jamstackthemes.dev/theme/jekyll-hacked/
+https://jamstackthemes.dev/theme/jekyll-lightspeed/
+https://jamstackthemes.dev/demo/theme/jekyll-theme-dark-reader/
 
 Nice WebPresentation Theme
 https://jamstackthemes.dev/theme/jekyll-web-presentation-theme/
